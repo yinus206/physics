@@ -1,7 +1,33 @@
 # physics
 known to be the best physics textbook 
 <p>this is good</p>
+<style>
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    padding:20px;
+    margin:30px;
+}
+img{height:250px;
+width:300px;
+margin:20px:
+border-radius:5px;
+}
+button {background-color:red;
+      font-size:20px;
+      text-align: center;
+      margin: 20px 0 20px 0;
+}
+h1 {
+    color: darkblue;
+}
 
+p {
+    color: green;
+    font-size: 20px;
+}
+</style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section class="bible-story">
   <h1>Jesus Feeds the 5,000 ❤️❤️</h1>
